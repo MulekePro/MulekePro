@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Danilo
 
-<!--
-**MulekePro/MulekePro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Futuro GameDEV**  
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)**   
+- 🧰 Focado em **C#** e estudando **Unity** para jogos  
+- 🛠️ Curioso sobre **sistemas, proteção de software, engenharia reversa e jogos**  
+
+---
+
+## 🧪 Tecnologias e Ferramentas
+
+- ⚙️ .NET / ASP.NET
+- 🔧 Git & GitHub
+- 🎮 Unity (iniciante)
+- 🔍 Interesse em engines, cheats, anti-cheats
+
