@@ -13,7 +13,7 @@
 
 ## 🧪 Tecnologias e Ferramentas
 
-- ⚙️ .NET / ASP.NET
+- ⚙️ .NET 
 - 🔧 Git & GitHub
 - 🎮 Unity (iniciante)
 - 🔍 Interesse em engines, cheats, anti-cheats
